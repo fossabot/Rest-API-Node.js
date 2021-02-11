@@ -1,4 +1,6 @@
 # Rest-API-Node.js
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmbahagus%2FRest-API-Node.js.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmbahagus%2FRest-API-Node.js?ref=badge_shield)
+
 ### Menggunakan Express Sebagai Servernya
 
 # Website
@@ -24,3 +26,7 @@
 | Menampilkan Informasi Github | :white_check_mark: |
 | Membuat Shortlink | :white_check_mark: |
 | Menampilkan WordPress Users | :white_check_mark: |
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fmbahagus%2FRest-API-Node.js.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fmbahagus%2FRest-API-Node.js?ref=badge_large)
